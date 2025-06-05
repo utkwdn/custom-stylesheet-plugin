@@ -3,7 +3,7 @@
 Plugin Name:  Custom Stylesheet
 Description:  A simple plugin to upload, edit and enqueue a custom stylesheet
 Plugin URI:   https://www.utk.edu
-Author:       UT OCM
+Author:       The University of Tennessee, Knoxville
 Version:      1.0
 Text Domain:  custom_stylesheet
 Domain Path:  /languages
